@@ -3,6 +3,7 @@ Final DA project
 
 
 Frameworks used: telebot, numpy, cv2, io.
+
 Functions:
 1. Detecting and counting faces in pictures
 2. Detecting and counting geometric shapes (cirles,rectangles) in pictures
